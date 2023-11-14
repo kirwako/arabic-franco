@@ -1,0 +1,47 @@
+{
+	"name": "arabic-franco",
+	"version": "1.0.4",
+	"description": "📦 package to convert Romanized/franco the arabic names to english ones",
+	"main": "dist/index.js",
+	"scripts": {
+		"start": "node ./dist/example.js",
+		"dev": "tsc -w",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kirwako/arabic-franco.git"
+	},
+	"keywords": [
+		"arabic",
+		"names",
+		"convert",
+		"english",
+		"letters",
+		"arabi",
+		"araby",
+		"romanizations",
+		"arabian",
+		"name",
+		"converter",
+        "franco",
+        "franco-arabic",
+        "franco-arabic-names",
+        "franco-arabic-names-to-en",
+        "franco-arabic-names-to-english",
+        "franco-arabic-names-to-english-converter",
+        "franco-arabic-names-to-english-letters",
+        "franco-arabic-names-to-english-letters-converter",
+        "franco-arabic-names-to-english-letters-convert",
+        "franko"
+	],
+	"author": "kirwako",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kirwako/arabic-franco/issues"
+	},
+	"homepage": "https://github.com/kirwako/arabic-franco#readme",
+	"devDependencies": {
+		"typescript": "^5.2.2"
+	}
+}
